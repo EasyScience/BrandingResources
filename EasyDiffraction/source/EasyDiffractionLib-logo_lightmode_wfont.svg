@@ -10,7 +10,7 @@
       <stop offset="1" style="stop-color: rgb(78, 193, 239);"/>
     </linearGradient>
     <style bx:fonts="Baloo 2">@import url(https://fonts.googleapis.com/css2?family=Baloo+2%3Aital%2Cwght%400%2C400..800&amp;display=swap);</style>
-    <bx:grid x="0" y="0" width="190" height="80"/>
+    <bx:grid x="0" y="0" width="207" height="80"/>
   </defs>
   <g transform="matrix(0.341978, 0, 0, 0.341978, 9.524829, 7.722592)">
     <g transform="matrix(0.283555, 0, 0, 0.283555, 3.122751, 1.671054)">
@@ -31,9 +31,10 @@
     </g>
     <g transform="matrix(1, 0, 0, 1, -3.848826, -4.564161)" style="">
       <title>Text</title>
-      <text style="font-family: &quot;Baloo 2&quot;; font-size: 70.2px; font-weight: 300; line-height: 191.825px; white-space: pre;" x="216.363" y="56.789"><title>easy</title>easy</text>
-      <text style="font-family: &quot;Baloo 2&quot;; font-size: 70.2px; font-weight: 600; line-height: 191.825px; white-space: pre;" x="216.468" y="127.567"><title>diffraction</title>diffraction</text>
-      <text style="font-family: &quot;Baloo 2&quot;; font-size: 46.8px; font-weight: 300; line-height: 191.825px; white-space: pre;" x="218.995" y="178.357"><title>library</title>library</text>
+      <text style="font-family: &quot;Baloo 2&quot;; font-size: 70.2px; font-weight: 300; line-height: 191.825px; white-space: pre;" x="216.363" y="39.245"><title>easy</title>easy</text>
+      <text style="font-family: &quot;Baloo 2&quot;; font-size: 70.2px; font-weight: 600; line-height: 191.825px; white-space: pre;" x="216.468" y="107.099"><title>diffraction</title>diffraction</text>
+      <rect style="" x="218.702" y="122.343" width="207.616" height="73.104" rx="14.621" ry="14.621"/>
+      <text style="fill: rgb(255, 255, 255); font-family: &quot;Baloo 2&quot;; font-size: 61.4px; font-weight: 300; line-height: 191.825px; white-space: pre;" x="236.247" y="174.11"><title>library</title>library</text>
     </g>
   </g>
 </svg>
